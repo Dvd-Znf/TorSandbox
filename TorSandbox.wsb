@@ -1,0 +1,12 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>%HOMEPATH%\Desktop\TorSandbox</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\TorSandbox</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>powershell -executionpolicy unrestricted -command "start powershell {-noexit -file C:\Users\WDAGUtilityAccount\TorSandbox\LogonScript.ps1}"</Command>
+  </LogonCommand>
+</Configuration>
