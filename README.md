@@ -17,4 +17,4 @@ PS: git clone
 PS: WindowsSandbox TorSandbox\TorSanbox.wsb  
 ```
 In the future i want to add a nice shortcut thing for it   
-But for now you can right click and add your own shotcut to put in the start menu   
+But for now you can right click and add your own shortcut to put in the start menu   
