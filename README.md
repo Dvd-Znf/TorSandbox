@@ -16,5 +16,5 @@ PS: cd Desktop
 PS: git clone   
 PS: WindowsSandbox TorSandbox\TorSanbox.wsb  
 ```
-In the future i want to add a nice shortcut thing for it   
-But for now you can right click and add your own shortcut to put in the start menu   
+If you want you can move the custom shortcut anywhere you want and even pin it to the taskbar    
+The shortcut also has a custom icon that is broken in some smaller sizes (Maybe ill fix in near future)   
