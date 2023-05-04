@@ -2,7 +2,7 @@
 This repo provides neccesary Windows Sandbox configuration file and logon script  
 In order to automatically start a new Sandbox with the newest installation of the TOR browser  
    
-![Banner](/Banner.bmp)  
+![Banner](/res/Banner.bmp)  
 ## Why use TOR inside WindowsSanbox?
 Because of this [reddit post](https://www.reddit.com/r/TOR/comments/tif9pp/question_about_tor_browser_and_the_windows_release/)   
 But also because using the TOR browser inside a vm like windows sandbox should somewhat remove any possible tracking fingerprinting nonesense  
