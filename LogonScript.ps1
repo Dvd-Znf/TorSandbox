@@ -16,3 +16,6 @@ winget install TorProject.TorBrowser
 
 # Launch TorBrowser
 start C:\Users\WDAGUtilityAccount\Desktop\'Tor Browser'\Browser\firefox.exe
+
+# Exit the terminal, remove this if debuging
+taskkill /IM powershell.exe
