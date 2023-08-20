@@ -1,6 +1,6 @@
 # Tor Browser installed automatically in WindowsSandbox
 This repo provides neccesary Windows Sandbox configuration file and logon script  
-In order to automatically start a new Sandbox with the newest installation of the TOR browser  
+In order to automatically start a new Sandbox with the latest version of the TOR browser  
    
 ![Banner](/res/Banner.bmp)  
 ## Why use TOR inside WindowsSanbox?
