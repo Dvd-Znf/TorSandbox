@@ -17,4 +17,4 @@ PS: git clone
 PS: WindowsSandbox TorSandbox\TorSanbox.wsb  
 ```
 If you want you can move the custom shortcut anywhere you want and even pin it to the taskbar    
-The shortcut also has a custom icon that is broken in some smaller sizes (Maybe ill fix in near future)   
+The shortcut also has a custom icon that is broken in some smaller sizes (Maybe I'll fix in near future)   
