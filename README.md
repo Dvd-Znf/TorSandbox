@@ -16,6 +16,7 @@ PS: cd Desktop
 PS: git clone   
 PS: WindowsSandbox TorSandbox\TorSanbox.wsb  
 ```
+### The installation is now portable so you can move the repo anywhere, even outside of your pc (Ex. on a NAS)   
 If you want you can move the custom shortcut anywhere you want and even pin it to the taskbar    
 The shortcut also has a custom icon that is broken in some smaller sizes (Maybe I'll fix in near future)   
 
