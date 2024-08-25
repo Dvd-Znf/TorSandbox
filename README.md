@@ -24,5 +24,5 @@ The shortcut also has a custom icon that is broken in some smaller sizes (Maybe 
 - [ ] Make a single Powershell shell script like here: https://github.com/microsoft/winget-pkgs/blob/master/Tools/SandboxTest.ps1    
    
 ## Important note:
-I gave up Windows a while ago, so this project hasn't been tested in a while and probably won't recieve much update
+I gave up Windows a while ago, so this project hasn't been tested in a while and probably won't recieve much update   
 Life is just too short to use Windows man, :P
